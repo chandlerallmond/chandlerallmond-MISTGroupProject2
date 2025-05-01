@@ -9,7 +9,7 @@
 ## Team Members:
 - Chandler Allmond @chandlerallmond 
 - Nick Barton @nicholasbarton1 
-- Manav Kamdar 
+- Manav Kamdar @Manavk2004 
 - Vincent Sengaphone @Sengaphone 
 - Landon Wilson @landonnn0 
 ## Dataset Title:
@@ -106,4 +106,4 @@ Why did it Change?
 ## Overall Analysis:
 - Average import value is growing and suggests that pricing, volume, or dependency are increasing.
 - America appears to be acquiring more imports from Central and South America than the other continents of the world. 
-- Countries like Mexico, Chile, Vietnam are showing signs of rapid economic growth, indicating strong agricultural export capacity, increased demand from those countries and even better trade agreements. 
+- Countries like Mexico, Chile, Vietnam are showing signs of rapid economic growth, indicating strong agricultural export capacity, increased demand from those countries and even better trade agreements.
