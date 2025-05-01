@@ -46,7 +46,7 @@ Why this is important:
 - By narrowing the focus to a specific category of goods, this question allows for a deep dive into a globally significant and economically valuable food group. It highlights which countries are rising or declining as major sources of coffee, tea, and spices, potentially due to changes in climate, production, trade, or consumer demand. It supports visuals such as bar charts, area plots, and animated maps to compare shifts over time.
 ## The Manipulations Applied to the Dataset as part of the Analysis:
 For Question 1:
-- e used a filter to only select the top 5 countries, after sifting through the data and determining them. Then just added a color for each country and labeled them. 
+- We used a filter to only select the top 5 countries, after sifting through the data and determining them. Then just added a color for each country and labeled them. 
 
 For Question 2:
 - For Comparison from 1999 to 2024 though there was a lot more filtering involved. Firstly having to filter out the commodities for just total coffee, tea and spices. Then adding a filter to only select 1999 in one model and 2024 in the other. Finally after figuring out the top 5 countries we went through and selected the 5 specific countries for each respective year. 
