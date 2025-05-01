@@ -84,6 +84,7 @@ China’s trend was relatively flat and even showed a decline starting around 20
 - Introduction or reintroduction of tariffs in key sectors
 
 Analysis of Results for Question 2:
+
 Key Observations:
 - The majority of the top exporters to the United States were located in Central and South America, regions known for their agricultural output and climate compatibility with key crops.
 
