@@ -38,12 +38,20 @@ Question 1:
 
 Why this is important:
 - This question helps identify the U.S.'s most influential food trade partners and how those relationships have evolved. It reveals whether the U.S. is becoming more reliant on certain countries, or if its sourcing is diversifying over time. Tracking changes in import values also helps uncover the effects of trade policies, economic shifts, or global supply chain changes. It supports visualizations such as line graphs, maps, and trend comparisons.
+  
+<img width="900" alt="Screenshot 2025-05-01 at 11 17 50 AM" src="https://github.com/user-attachments/assets/0ad3349e-9c31-4840-81e4-9f4049d77075" />
 
 Question 2:
 - How have the top coffee, tea, and spice importers to the U.S. changed from 1999 to 2024?
 
 Why this is important:
 - By narrowing the focus to a specific category of goods, this question allows for a deep dive into a globally significant and economically valuable food group. It highlights which countries are rising or declining as major sources of coffee, tea, and spices, potentially due to changes in climate, production, trade, or consumer demand. It supports visuals such as bar charts, area plots, and animated maps to compare shifts over time.
+
+<img width="900" alt="Screenshot 2025-05-01 at 11 18 57 AM" src="https://github.com/user-attachments/assets/2b75ae80-aece-4f43-af55-e81165e9053f" />
+
+<img width="900" alt="Screenshot 2025-05-01 at 11 19 35 AM" src="https://github.com/user-attachments/assets/c1cee5ee-fa24-467b-a55a-27bb51f640c8" />
+
+
 ## The Manipulations Applied to the Dataset as part of the Analysis:
 For Question 1:
 - We used a filter to only select the top 5 countries, after sifting through the data and determining them. Then just added a color for each country and labeled them. 
