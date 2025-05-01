@@ -60,6 +60,7 @@ For Question 2:
 - For Comparison from 1999 to 2024 though there was a lot more filtering involved. Firstly having to filter out the commodities for just total coffee, tea and spices. Then adding a filter to only select 1999 in one model and 2024 in the other. Finally after figuring out the top 5 countries we went through and selected the 5 specific countries for each respective year. 
 ## Analysis and Results:
 Analysis of Results for Question 1:
+
 Mexico experienced the most dramatic increase in food export value to the U.S., significantly outpacing all other countries by 2024. Key contributing factors:
 
 - Low transportation costs and shorter supply chains
